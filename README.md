@@ -8,22 +8,28 @@
   
   [05] pkg install nano
   
-  [06] pip2 install futures
+  [06] pip install futures
   
-  [07] pip2 install mechanize
+  [07] pip install mechanize
  
-  [08] pip2 install requests
+  [08] pip install requests
   
   [09] git clone https://github.com/BocilAlok/premium
   
-  [10] pip2 Install ipaddress
-  
-  [11] pip2 install bs4
+  [10] pip2 install bs4
   
   [12] pip2 install tqdm
-  
+
   [13] cd premium
- 
-  [14] git pull
+
+  [rm -rf premium
+
+  [15] python premium.py
+
   
-  [15] python2 premium.py
+
+ 
+  
+  
+  
+
