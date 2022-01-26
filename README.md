@@ -22,7 +22,7 @@
 
   [13] cd premium
 
-  [rm -rf premium
+  [14]rm -rf premium
 
   [15] python premium.py
 
